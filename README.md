@@ -4,5 +4,5 @@ This is a repository of COVID-19 tweets from Richmond, Virginia. The process inv
 
 The files contain only Tweet IDs in compliance with Twitter’s Terms of Service. To view the tweets, you will need to use a tool like [Hydrator](https://github.com/DocNow/hydrator) to convert them back to JSON or into a CSV file. 
 
-The dataset is being provided under the Attribution-NonCommercial-ShareAlike Creative Commons license. 
+The dataset is being provided under the [Attribution-NonCommercial-ShareAlike](https://creativecommons.org/licenses/by-nc-sa/4.0/) Creative Commons license. 
 
